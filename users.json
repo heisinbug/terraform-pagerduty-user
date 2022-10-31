@@ -1,0 +1,11 @@
+{
+  "users": {
+    "test.user" : {
+      "name": "Test User",
+      "email": "testuser@example.com",
+      "title": "",
+      "role": "observer"
+      //Fill rest of the users here
+    } 
+  }
+}
